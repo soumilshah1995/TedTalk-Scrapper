@@ -8,5 +8,12 @@ This is a Python library that allows you to access alll data froom TEd Talk webs
 # How to use 
 
 obj = TedTalk()
+
+
 print(obj.get)
+
+website on which Webscrapping was done 
+https://www.ted.com/playlists/browse?topics=list
+
+
 
