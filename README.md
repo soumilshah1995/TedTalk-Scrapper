@@ -15,5 +15,7 @@ print(obj.get)
 website on which Webscrapping was done 
 https://www.ted.com/playlists/browse?topics=list
 
+youtube video Tutorial : https://youtu.be/UDvtPotkizM
+
 
 
