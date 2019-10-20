@@ -16,8 +16,8 @@ This is a Python Script that allows you to access all data from Ted Talk website
         >>> obj = TedTalk()
         >>> print(obj.get)
     '''
-* [Url](https://www.ted.com/playlists/browse?topics=list) -Web Scrapping Url
-*  [Video Tutorial ]  (https://youtu.be/UDvtPotkizM) -youtube video Tutorial
+*  [Url](https://www.ted.com/playlists/browse?topics=list) -Web Scrapping Url
+*  ![Video Tutorial ]  (https://youtu.be/UDvtPotkizM) -youtube video Tutorial
       
 ## Built With
 
