@@ -12,11 +12,11 @@ This is a Python Script that allows you to access all data from Ted Talk website
 ---------------------------------------
 ### Example 
 
-    ```python
+    ```
         >>> obj = TedTalk()
         >>> print(obj.get)
     '''
- * [Url](https://www.ted.com/playlists/browse?topics=list) -Web Scrapping Url
+* [Url](https://www.ted.com/playlists/browse?topics=list) -Web Scrapping Url
 *  [Video Tutorial ]  (https://youtu.be/UDvtPotkizM) -youtube video Tutorial
       
 ## Built With
